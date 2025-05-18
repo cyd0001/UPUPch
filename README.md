@@ -1,7 +1,7 @@
 # UPUPch
 # 项目名称
 
-footool.top
+[访问我的博客](https://footool.top)
 
 ## 安装
 
